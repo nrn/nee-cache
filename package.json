@@ -1,0 +1,32 @@
+{
+  "name": "nee-cache",
+  "version": "0.0.0",
+  "description": "Novel Event Emitter cache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/nrn/nee-cache"
+  },
+  "keywords": [
+    "novel",
+    "event",
+    "emitter",
+    "cache"
+  ],
+  "author": "Nick Niemeir <nick.niemeir@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrn/nee-cache/issues"
+  },
+  "homepage": "https://github.com/nrn/nee-cache",
+  "devDependencies": {
+    "nee": "^0.0.1",
+    "tape": "^2.13.4"
+  },
+  "dependencies": {
+    "lodash._slice": "2.4.1"
+  }
+}
